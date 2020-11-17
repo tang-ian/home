@@ -15,10 +15,6 @@
   font-weight:bolder;
   font-size:20px;
 }
-/* creating animation to double size of images */ @keyframes double-image {
-  from {height: 100px;}
-  to {height:200px;}
-}
 /* defining characteristics of images */ img{
   border-color: aqua;
   border-style:solid double;
@@ -26,7 +22,6 @@
 }
 /* defining what happens when images are hovered over */img:hover{
   border-color:red;
-  animation: double-image 3s frontwards;
 }
 /* defining characteristics of class "content" */ .content{
   font-size:18px;
