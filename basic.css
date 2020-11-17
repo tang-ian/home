@@ -26,8 +26,8 @@
   font-size:18px;
   font-weight:bold;
 }
-/* defining characteristics of class "facts" */ .facts{
-    font-family: 'Kalam';font-size: 22px;
+/* defining characteristics of class "facts" */ .facts li{
+    font-family: 'Kalam';font-size: 22px;font-weight: bolder;
 }
 /* defining characteristics of class "content" when being hovered over */.content:hover{
   color:#D98C40;
