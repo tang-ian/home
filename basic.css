@@ -1,0 +1,42 @@
+/* defining characteristics of header 1*/ h1{
+    font-size:40px;
+    color:red;
+    font-weight:bold; 
+}
+/* defining characteristics of body */ body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url(https://media.idownloadblog.com/wp-content/uploads/2019/10/iOS-5-dark-mod-iphone-wallpaper-ar72014.jpeg);
+    height: 100%;
+    width: 100%;
+    color:white;
+}
+/* items in lists */li{
+  font-family:'Times New Roman', Times, serif;
+  font-weight:bolder;
+  font-size:20px;
+}
+/* defining characteristics of images */ img{
+  border-color: aqua;
+  border-style:solid double;
+}
+/* defining what happens when images are hovered over */img:hover{
+  border-color:red;
+}
+/* defining characteristics of class "content" */ .content{
+  font-size:18px;
+  font-weight:bold;
+}
+.content:hover{
+  color:#D98C40;
+}
+/* defining characteristics of header 2*/ h2{
+    font-size:20px;
+    font-weight:bold;
+}
+/* defining characteristics of links */ a{
+  color:white;
+}
+/* defining characteristics of header 6 */ h6{
+  color:white;
+  font-size:12px;
+}

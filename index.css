@@ -1,0 +1,12 @@
+/* defining characteristics of body */ body{
+  background-image:url("https://wallpaperaccess.com/full/1124103.jpg")
+}
+
+/* defining characteristics of links*/ a{
+  color:white;
+}
+/* defining characteristics of header 1*/ h1{
+  font-size:30px;
+  color:white;
+  font-family:cursive;
+}
