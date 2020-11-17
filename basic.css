@@ -18,7 +18,6 @@
 /* defining characteristics of images */ img{
   border-color: aqua;
   border-style:solid double;
-  height: 100px;
 }
 /* defining what happens when images are hovered over */img:hover{
   border-color:red;
