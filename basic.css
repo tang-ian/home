@@ -26,7 +26,7 @@
 }
 /* defining what happens when images are hovered over */img:hover{
   border-color:red;
-  animation: double-image 3s;
+  animation: double-image 3s frontwards;
 }
 /* defining characteristics of class "content" */ .content{
   font-size:18px;
